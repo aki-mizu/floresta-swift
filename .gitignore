@@ -1,0 +1,4 @@
+# XCFramework is a binary build artifact — zip it and upload to GitHub Releases.
+# The zip (florestaFFI.xcframework.zip) is the release asset referenced in Package.swift.
+florestaFFI.xcframework/
+florestaFFI.xcframework.zip
